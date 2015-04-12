@@ -1,2 +1,3 @@
 # ls_display
-display input in columns like ls(1) does
+
+A small CLI tool for building column oriented data lists, much like ls(1) does for file listings.
